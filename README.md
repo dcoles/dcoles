@@ -1,4 +1,8 @@
-### Hi there 👋
+Hi! My name is **David Coles** (He/Him). I'm a professional Software Engineer with a focus on system architecture.
+
+I mostly program in [Python](https://www.python.org/), [Rust](https://www.rust-lang.org/) and [C/C++](https://isocpp.org/).
+
+You can also reach me on Twitter ([@davidcoles](https://twitter.com/davidcoles)).
 
 <!--
 **dcoles/dcoles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
