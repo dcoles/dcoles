@@ -1,4 +1,4 @@
-Hi! My name is **David Coles** (He/Him). I'm a Principal Software Engineer at [Sony Interactive Entertainment](https://sonyinteractive.com/en/) with a focus on System Architecture.
+Hi! My name is **David Coles** (He/Him/They/Them). I'm a Principal Software Engineer at [Sony Interactive Entertainment](https://sonyinteractive.com/en/) with a focus on System Architecture.
 
 I mostly program in [Python](https://www.python.org/), [Rust](https://www.rust-lang.org/) and [C/C++](https://isocpp.org/).
 
